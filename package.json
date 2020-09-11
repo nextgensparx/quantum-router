@@ -48,7 +48,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "imports-loader": "^1.1.0",
     "js-yaml": "^3.12.0",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^2.6.1",
     "sass": "^1.26.10",
     "sass-loader": "^9.0.2",
     "vue-template-compiler": "^2.5.17"
