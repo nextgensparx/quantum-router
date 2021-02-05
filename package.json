@@ -20,7 +20,7 @@
     "buefy": "^0.7.3",
     "bulma-badge": "^2.0.0",
     "chart.js": "^2.7.2",
-    "dotty": "^0.1.0",
+    "dotty": "^0.1.1",
     "electron": "^9.1.0",
     "electron-store": "^5.2.0",
     "font-awesome": "^4.7.0",
